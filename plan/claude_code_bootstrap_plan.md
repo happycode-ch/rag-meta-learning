@@ -11,6 +11,60 @@ This protocol establishes a self-directed development framework for Claude Code 
 
 ---
 
+## 🚨 CRITICAL DEVELOPMENT METHODOLOGY REQUIREMENTS
+
+### MANDATORY: Agile Development Process
+**CLAUDE CODE MUST USE AGILE METHODOLOGY**
+- Work in short, iterative sprints (1-2 week cycles)
+- Deliver working software incrementally
+- Daily progress updates and sprint retrospectives
+- Continuous integration and deployment
+- Adapt to changing requirements through iteration
+- User stories drive development priorities
+- Regular sprint planning and backlog grooming
+
+### MANDATORY: Test-Driven Development (TDD)
+**CLAUDE CODE MUST USE TDD FOR ALL DEVELOPMENT**
+- **RED**: Write failing tests FIRST before any implementation
+- **GREEN**: Write minimal code to pass tests
+- **REFACTOR**: Improve code while maintaining green tests
+- NO production code without corresponding tests
+- Test coverage must be >90% at all times
+- Unit tests for every function/method
+- Integration tests for component interactions
+- End-to-end tests for critical workflows
+- Performance tests for optimization validation
+
+### TDD Workflow Enforcement
+```python
+# EVERY development cycle MUST follow:
+def development_cycle():
+    # 1. Write failing test
+    write_test()
+    run_test()  # MUST fail
+    
+    # 2. Implement minimal solution
+    write_minimal_code()
+    run_test()  # MUST pass
+    
+    # 3. Refactor with confidence
+    refactor_code()
+    run_test()  # MUST still pass
+    
+    # 4. Commit only with green tests
+    if all_tests_pass():
+        git_commit()
+```
+
+### Agile Sprint Structure
+```
+Sprint Planning → Daily Development (TDD) → Testing → Review → Retrospective
+         ↑                                                            ↓
+         ←────────────── Next Sprint Planning ←──────────────────────
+```
+
+---
+
 ## Phase I: Genesis & Research Foundation
 
 ### Initial Directive

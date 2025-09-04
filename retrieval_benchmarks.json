@@ -1,0 +1,58 @@
+{
+  "indexing": {
+    "single_doc_time_ms": 0.014781951904296875,
+    "batch_time_s": 0.0016713142395019531,
+    "docs_per_second": 597134.8633380885
+  },
+  "latency": {
+    "min_latency_ms": 12.023687362670898,
+    "max_latency_ms": 13.578414916992188,
+    "avg_latency_ms": 12.742082277933756,
+    "p50_latency_ms": 12.717247009277344,
+    "p95_latency_ms": 13.48578929901123,
+    "p99_latency_ms": 13.559889793395996
+  },
+  "filtering": {
+    "no_filter_ms": 13.008594512939453,
+    "no_filter_count": 0,
+    "with_filter_ms": 11.98434829711914,
+    "with_filter_count": 0,
+    "filter_overhead_ms": -1.0242462158203125
+  },
+  "hybrid_comparison": {
+    "hybrid_ms": 14.186382293701172,
+    "hybrid_results": 0,
+    "vector_only_ms": 13.357877731323242,
+    "vector_only_results": 10,
+    "hybrid_overhead_ms": 0.8285045623779297,
+    "hybrid_overhead_percent": 6.202366716047614
+  },
+  "scalability": {
+    "doc_counts": [
+      100,
+      500,
+      1000,
+      2000,
+      5000
+    ],
+    "latencies": [
+      1.3932228088378906,
+      6.882333755493164,
+      13.190364837646484,
+      55.307674407958984
+    ],
+    "throughputs": [
+      741043.1095406361,
+      351812.1120617346,
+      525602.0050125313,
+      550036.5877647367
+    ]
+  },
+  "timestamp": "2025-09-04T23:25:15.407844",
+  "summary": {
+    "avg_latency_ms": 12.742082277933756,
+    "meets_target": "True",
+    "index_throughput": 597134.8633380885,
+    "rating": "\u2b50\u2b50\u2b50\u2b50\u2b50 Excellent"
+  }
+}

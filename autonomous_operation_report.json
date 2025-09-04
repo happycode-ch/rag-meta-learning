@@ -1,0 +1,30 @@
+{
+  "operation_summary": {
+    "start_time": "2025-09-04T23:37:10.394160",
+    "end_time": "2025-09-04T23:38:10.399247",
+    "duration_hours": 0.016668076944444443,
+    "status": "completed"
+  },
+  "statistics": {
+    "queries_processed": 12,
+    "documents_indexed": 1,
+    "optimizations_performed": 1,
+    "retraining_cycles": 0,
+    "self_healing_actions": 0,
+    "uptime_hours": 0.015279139722222222
+  },
+  "performance": {
+    "avg_latency": 15.690029976932953,
+    "p95_latency": 19.05009124011269,
+    "avg_accuracy": 0.9230914784428084,
+    "avg_throughput": 107.83333333333333,
+    "total_metrics": 12
+  },
+  "learnings": [],
+  "drift_status": {
+    "current_accuracy": 0.35,
+    "avg_confidence": 0.9078661335106935,
+    "total_observations": 20,
+    "drift_detected": false
+  }
+}

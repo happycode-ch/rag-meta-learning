@@ -1,0 +1,3629 @@
+{
+  "training_samples": [
+    {
+      "text": "CONTRACT for Service 70\nEffective Date: 2025-01-09\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137319",
+        "document_id": "29466838-8b2e-4c85-a025-afe86f827f32",
+        "confidence_score": 0.8247322702309468,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "dd756ba9-7b29-4ff5-8a0a-176bd9111d88"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.5.69\nRequirements:\n- Req1 83\n- Req2 46\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139957",
+        "document_id": "e496319d-b196-40a7-80f8-1db28a926c9f",
+        "confidence_score": 0.7181650267499826,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "770e5892-03d8-4992-a030-377946ffbbb4"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-04-15\nDescription: Description 86\nAmount: $48592.91\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135833",
+        "document_id": "73c59bb5-1365-4ea6-9022-e3c450e4ec5a",
+        "confidence_score": 0.8617701794184264,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "fdee7c31-e7d3-439b-a07e-e153da9e5fb5"
+    },
+    {
+      "text": "Invoice #8801207\nBill To: Company O\nTotal Due: $44271.76\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136746",
+        "document_id": "1f126e51-e79a-439b-9326-8f9076c0032f",
+        "confidence_score": 0.76411042029673,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "e13f3b58-eb8c-4469-9cdb-11fe5685a209"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-09-04\nDescription: Description 40\nAmount: $39959.33\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135732",
+        "document_id": "3cf35adb-011b-431b-bb50-ca2ffddf838d",
+        "confidence_score": 0.9015060878914849,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "93b913d2-fd35-4c2e-88d1-6f5ff0c5b89b"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/reports\nMethod: DELETE\nParameters: Params 10\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140125",
+        "document_id": "c2ac30fa-0bb5-421d-9628-b47e4119b21e",
+        "confidence_score": 0.9697800295370604,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "f71efb8a-581c-4f41-a8c8-36603dede0ac"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 61, Company H hereby provides notice that Action 59.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138683",
+        "document_id": "28ebab26-37c0-40a0-b0b4-3f56eb2d6680",
+        "confidence_score": 0.8653795230641409,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "dc5ce019-c5b4-4389-992e-8a3fc76f54de"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company L and Company H.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137639",
+        "document_id": "e338dd5c-ac70-488a-9141-8f4da28890a1",
+        "confidence_score": 0.8950432279749625,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "7480097f-912f-4e1b-a09f-1bb019b50bfc"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-12-18\nDescription: Description 64\nAmount: $9181.85\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135377",
+        "document_id": "926a8d74-bb72-4c4d-8f44-bc90289338da",
+        "confidence_score": 0.7141349126274203,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "bc65d9a6-2abf-418d-a8ee-5fbbf816b6fd"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.8.34\nRequirements:\n- Req1 22\n- Req2 33\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139741",
+        "document_id": "fc404a67-f96f-4490-90f4-bd1815e114da",
+        "confidence_score": 0.9742146860614936,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "06a24163-0988-4920-967c-6767c95f3b67"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 5418934\nBalance: $97191.62",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135463",
+        "document_id": "9ed9074d-b338-4202-8f94-c5e7f843275e",
+        "confidence_score": 0.9285886597156194,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "20650cef-32ea-43fb-9c64-3068b8dbd783"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.4.49\nRequirements:\n- Req1 53\n- Req2 100\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140844",
+        "document_id": "62afff1d-8f3a-4d10-b201-80ed95179626",
+        "confidence_score": 0.8015101440524258,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ae032393-8ed8-42b0-81c1-90e4d3f5cd98"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 35\n2. Term2 43\n3. Term3 41\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137185",
+        "document_id": "c55b0949-7524-4200-8742-b5c59593d4d5",
+        "confidence_score": 0.9679080498370951,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f735263c-48d1-460a-b507-a902efb1b22c"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/reports\nMethod: DELETE\nParameters: Params 37\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139655",
+        "document_id": "2850e785-b667-4852-99cd-281b1ea97763",
+        "confidence_score": 0.9327222938810142,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "72a5c5b4-9ada-4133-8746-3f60b22468f1"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.9.88\nRequirements:\n- Req1 51\n- Req2 84\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139228",
+        "document_id": "f8fc2e85-3c83-49e2-aee1-42b0a31de03d",
+        "confidence_score": 0.7240945961738346,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a0fbbe30-7a38-4e50-b7c3-21da797b2ed5"
+    },
+    {
+      "text": "Error Code: ERR_390\nDescription: Error Desc 33\nResolution: Resolution 93\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140874",
+        "document_id": "fa334978-097b-495e-b82b-d02790717b07",
+        "confidence_score": 0.9554698779953212,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "d7cdf5a1-5bff-4892-a8f2-91905a196933"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/reports\nMethod: POST\nParameters: Params 42\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140784",
+        "document_id": "4251ba9b-f4af-4563-909b-1073d5784c61",
+        "confidence_score": 0.8815017502210193,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a554d13f-cb58-4659-9f33-e9d203baeff3"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $786773.23\nExpenses: $809422.03\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135854",
+        "document_id": "b5c1d1d0-daa3-46b0-a4e3-a170328f9119",
+        "confidence_score": 0.7571229743085632,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "8a0275e3-7969-43fc-9c8b-f61db2bc6fa4"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 78, Company T hereby provides notice that Action 80.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138190",
+        "document_id": "855190e3-932f-4c6c-ba0d-8dcf1c3de781",
+        "confidence_score": 0.7677061411195103,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "20727991-1175-4e6c-83a5-4454ae633656"
+    },
+    {
+      "text": "CONTRACT for Service 78\nEffective Date: 2025-04-29\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138403",
+        "document_id": "e8b07a72-78cc-42e1-9f17-a7d36a960908",
+        "confidence_score": 0.7077594677165006,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "b061c8d2-b4c0-4112-8e0e-818dcbedf1c5"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/users\nMethod: PUT\nParameters: Params 31\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140049",
+        "document_id": "608861b7-df6f-433b-aa64-ee15fde0ccc2",
+        "confidence_score": 0.8766558766151327,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "60b929ec-1693-4011-9525-7e866580b04a"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-07-14\nDescription: Description 87\nAmount: $74092.71\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134736",
+        "document_id": "75f7aaaa-30f2-44a7-8189-f996fe8b7235",
+        "confidence_score": 0.8636099601245049,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d85f19d8-bd07-4f48-8f9a-8c0fe7c47822"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/data\nMethod: DELETE\nParameters: Params 23\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139723",
+        "document_id": "d1ee0b12-a834-4e8b-9e0b-892cb7d29f35",
+        "confidence_score": 0.7602384383950228,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "b9d2e1f9-346a-4dd2-bf48-78a8d6f40cf1"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.2.8\nRequirements:\n- Req1 17\n- Req2 36\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140141",
+        "document_id": "23015e41-612d-4bd6-8385-c1bb0060a114",
+        "confidence_score": 0.8872952482843623,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "095b9946-0ba8-46e7-95b6-db20c6f1bd80"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 40\n2. Term2 85\n3. Term3 75\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137986",
+        "document_id": "34825a76-053b-4569-b025-06344babbfa0",
+        "confidence_score": 0.810706135198311,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "7fbb8068-70a1-487d-a9df-2db3057dcfb8"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 91, Company E hereby provides notice that Action 56.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137823",
+        "document_id": "627a793a-4ff9-4bce-8e52-32524731da0a",
+        "confidence_score": 0.7528410883258178,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "c3d103a4-e582-471b-863b-22c94b734fd5"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/data\nMethod: GET\nParameters: Params 17\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140064",
+        "document_id": "97df90ba-9190-4d37-97fc-a58e65ce4c48",
+        "confidence_score": 0.9225154170862448,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "dbbec36f-b91b-47b9-81f9-71d07a8e372a"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.6.40\nRequirements:\n- Req1 81\n- Req2 92\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139244",
+        "document_id": "5fe92131-5037-4927-b553-04ccfa64c3c0",
+        "confidence_score": 0.966231604872797,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "2d8e25a4-e2ed-46c3-95f9-08c2153ec7fd"
+    },
+    {
+      "text": "Invoice #3135534\nBill To: Company G\nTotal Due: $42102.59\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136691",
+        "document_id": "9b434ba9-5b1b-4830-a7cf-d89c45bfeba7",
+        "confidence_score": 0.9821091012190549,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "76e07874-f3a9-47d5-bf58-7abb45e36752"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-09-12\nDescription: Description 55\nAmount: $34091.03\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134944",
+        "document_id": "2e2e5619-d503-436e-86e4-0d579e5c8bed",
+        "confidence_score": 0.7466438499435344,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f69a3d39-61fb-4a49-a51d-4ddd190f60a9"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/reports\nMethod: POST\nParameters: Params 100\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140658",
+        "document_id": "387d3628-815a-425e-96f4-f8776ba658cd",
+        "confidence_score": 0.804812579641714,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "486335c5-bab2-4bdb-8671-9fa1079f21cb"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 86, Company D hereby provides notice that Action 73.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137680",
+        "document_id": "3c894af4-063d-4b7a-a792-b991f4ee2b11",
+        "confidence_score": 0.9843271066649956,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "0e7d78fc-6ed8-453a-9b6e-0e69c7c9f2e4"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company U and Company E.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138652",
+        "document_id": "ee721902-9a17-4944-8662-fa67298c72a1",
+        "confidence_score": 0.8495126514121586,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "adb48fa2-e200-4824-948a-51fd5b643fbe"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6672134\nBalance: $2201.32",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135773",
+        "document_id": "3c0b5b54-8f50-45e4-b2a7-8be7b2780ac2",
+        "confidence_score": 0.8661764567273439,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f4c3dbcd-ad20-46e3-ab5b-c96436969c49"
+    },
+    {
+      "text": "Function: set_Data\nDescription: Description 80\nReturns: Return Type 72\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139834",
+        "document_id": "0f760102-7a99-43ef-936c-e5a56186bd31",
+        "confidence_score": 0.7984018845452128,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "2ca24694-d90c-4715-a6a1-a9ebebfccb56"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 98, Company R hereby provides notice that Action 5.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138525",
+        "document_id": "4c018d25-90b0-4e2b-970c-2c7454655573",
+        "confidence_score": 0.8364477725805188,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "20c81b63-8834-417b-bcff-eda34d7d4a0b"
+    },
+    {
+      "text": "Technical Specification\nVersion: 4.9.67\nRequirements:\n- Req1 38\n- Req2 59\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140158",
+        "document_id": "60a38315-2ffd-4ab2-bdee-5fb6de87ba76",
+        "confidence_score": 0.851665322345704,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "8428da88-7d96-4541-891b-9a4695702c26"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 54\n2. Term2 50\n3. Term3 99\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137342",
+        "document_id": "ca65e58d-58ea-461c-9383-3b578c1075ae",
+        "confidence_score": 0.8752238242612675,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "5e43b609-5281-4d75-a9b3-8b6e39c1c08f"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company C and Company U.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137570",
+        "document_id": "101641e3-3c93-474a-a19b-ff7dbcb51fb8",
+        "confidence_score": 0.8285838308983284,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "a070a248-779b-4665-8ec5-26c24854a6a4"
+    },
+    {
+      "text": "Invoice #8633773\nBill To: Company J\nTotal Due: $42358.45\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136018",
+        "document_id": "afb5b7c1-c1ff-4e63-a470-4a7c4d67158c",
+        "confidence_score": 0.9871952922579019,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f8fedbdc-86d8-4318-a5bf-6132934d5ba5"
+    },
+    {
+      "text": "Error Code: ERR_201\nDescription: Error Desc 90\nResolution: Resolution 15\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140173",
+        "document_id": "29611bc5-e8e9-4b6d-887c-a97e812b870d",
+        "confidence_score": 0.9558378211886724,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "68a620f9-d859-44c9-92da-21e372852635"
+    },
+    {
+      "text": "Function: get_Report\nDescription: Description 27\nReturns: Return Type 76\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140004",
+        "document_id": "f28be096-dabb-4a1d-84f5-aefc3a3af16f",
+        "confidence_score": 0.7647854055756024,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "e68319a6-778b-411c-b798-81a40990609a"
+    },
+    {
+      "text": "Function: process_Report\nDescription: Description 86\nReturns: Return Type 46\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140532",
+        "document_id": "517e7f33-21d3-49fe-a61f-2e25d56d5eae",
+        "confidence_score": 0.7216226489776473,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "9eaaf6a9-4e7b-4333-8909-a0229ff0daa3"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-02-05\nDescription: Description 4\nAmount: $18018.13\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136453",
+        "document_id": "7db43dbd-fc04-4167-ba8b-3a3214a1cc46",
+        "confidence_score": 0.9773461885724637,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "7265ec6a-f050-4580-90c3-22ca99d5118b"
+    },
+    {
+      "text": "Technical Specification\nVersion: 2.5.39\nRequirements:\n- Req1 93\n- Req2 42\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140397",
+        "document_id": "5cb6cfd5-1bc8-4650-ab60-b4d1e73bd0bc",
+        "confidence_score": 0.9330506859900223,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "40c433b9-465e-4878-b1d1-71c8233eb985"
+    },
+    {
+      "text": "CONTRACT for Service 97\nEffective Date: 2025-05-01\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137012",
+        "document_id": "804a1859-ed3d-4aed-b695-e26f48344233",
+        "confidence_score": 0.9519588663525762,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "ac05f40c-b821-4684-a3f2-1f5eb8522b42"
+    },
+    {
+      "text": "Function: get_Report\nDescription: Description 62\nReturns: Return Type 29\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140294",
+        "document_id": "483073b5-d992-4239-90db-438eef5ecdd3",
+        "confidence_score": 0.9541824544404858,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "bf031ffc-396c-46f8-a816-0239bad7d0fc"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 58, Company O hereby provides notice that Action 39.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138204",
+        "document_id": "1a7466bb-6ff2-429b-aed1-fb8f33e33b52",
+        "confidence_score": 0.958049999747854,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "ae658cd1-11a8-401c-a900-91cc957b0f07"
+    },
+    {
+      "text": "Function: process_Report\nDescription: Description 37\nReturns: Return Type 30\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139278",
+        "document_id": "74062178-5e97-441a-a158-0aba80705b38",
+        "confidence_score": 0.924029910021378,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "9e755f53-cf75-4f0e-8cf4-9eb27aa49cc1"
+    },
+    {
+      "text": "Invoice #7640184\nBill To: Company E\nTotal Due: $67201.85\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136137",
+        "document_id": "6772a24e-580d-4115-92b4-56ec84c0968a",
+        "confidence_score": 0.7899991239396287,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "36578b51-a9a9-46c6-b647-163b04b4d75a"
+    },
+    {
+      "text": "Invoice #2714803\nBill To: Company C\nTotal Due: $38054.74\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135092",
+        "document_id": "e3b5ec6d-67b9-4243-b8eb-6014c51dbbec",
+        "confidence_score": 0.8076938141453884,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "228c4c85-f887-41a9-b410-007a0a1b8c53"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/users\nMethod: POST\nParameters: Params 97\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140415",
+        "document_id": "cad4ce6d-36f1-4a54-8049-00a63ad58763",
+        "confidence_score": 0.8853514545778092,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "3578d80f-0107-4a6c-ad99-55d26af1997a"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-06-18\nDescription: Description 48\nAmount: $76274.83\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135500",
+        "document_id": "6edcf35e-51d2-44c8-9be0-e3c24765488a",
+        "confidence_score": 0.8618137090358877,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "3853374f-5d45-47ad-886b-1ab90b75b21f"
+    },
+    {
+      "text": "Technical Specification\nVersion: 4.1.17\nRequirements:\n- Req1 6\n- Req2 5\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139865",
+        "document_id": "78b87f6e-1fa6-4750-96ea-58ac0e05e6f8",
+        "confidence_score": 0.7913093753068016,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "5a221ae6-7f17-4a19-902e-ee6f055a310e"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 93, Company F hereby provides notice that Action 60.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137545",
+        "document_id": "e58fde86-5d62-459b-846f-baae4ee3e570",
+        "confidence_score": 0.9758624862006928,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "4d523412-1dbc-49a6-961a-3ec08d1b7efa"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 46\n2. Term2 34\n3. Term3 44\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137913",
+        "document_id": "9240677f-b85a-4363-89a2-434648afb0d3",
+        "confidence_score": 0.7838975464112757,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f2777f4c-cab6-4f0a-aee3-c047bcaca3c7"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company S and Company J.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138119",
+        "document_id": "d8aadebf-b809-4140-bc3f-57e03640f964",
+        "confidence_score": 0.840819083479153,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "5b1ac141-53ab-4aae-916e-a18d4231c094"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 91\n2. Term2 28\n3. Term3 9\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137284",
+        "document_id": "3a72f6ad-8e9c-4737-8224-b8bfda92d5ea",
+        "confidence_score": 0.8244603687694654,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f1a5f43a-77ce-4e72-96f0-0c2551d3e216"
+    },
+    {
+      "text": "Function: get_Data\nDescription: Description 19\nReturns: Return Type 33\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140675",
+        "document_id": "e9721743-b69e-45fa-bb14-9f357dd28d9e",
+        "confidence_score": 0.7591815408471949,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "5ae11a1e-4e9c-46fe-84b2-4dd13ac3477d"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 12, Company H hereby provides notice that Action 15.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138640",
+        "document_id": "3c5845b8-4af3-4121-b89e-b3f25c22aae0",
+        "confidence_score": 0.838434368253635,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "8a92f6d3-3a20-4f06-8597-d5dc960d7238"
+    },
+    {
+      "text": "Function: process_Data\nDescription: Description 82\nReturns: Return Type 60\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139849",
+        "document_id": "9db81adc-9959-437a-adde-21b307d603a0",
+        "confidence_score": 0.9728162915283676,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "82be72af-f0b2-40a2-a4b1-b6500d8d110e"
+    },
+    {
+      "text": "Function: set_Data\nDescription: Description 77\nReturns: Return Type 1\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140019",
+        "document_id": "5e3ed820-6116-4771-854c-346c53876dc5",
+        "confidence_score": 0.7831824537927049,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "f4671d6b-96d3-4df4-b8bc-61b3ac0285a5"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-02-08\nDescription: Description 63\nAmount: $48187.71\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135981",
+        "document_id": "9e08103f-7086-4d0a-b72d-adfa44651ee4",
+        "confidence_score": 0.9593951182090646,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "df266323-f490-49f0-9dcf-8eaf9564043c"
+    },
+    {
+      "text": "Error Code: ERR_420\nDescription: Error Desc 86\nResolution: Resolution 33\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140218",
+        "document_id": "cd680968-9dd3-4e27-8f60-1c06f9696b8b",
+        "confidence_score": 0.8122903070306611,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "8b81f6b6-ebf8-433d-989f-bb38c0fa66e1"
+    },
+    {
+      "text": "Error Code: ERR_966\nDescription: Error Desc 72\nResolution: Resolution 47\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139788",
+        "document_id": "643d0751-b22e-4dcd-a164-148045ef0629",
+        "confidence_score": 0.727090862670575,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "662d77f7-aca1-4e1b-b5dc-3afd00a78038"
+    },
+    {
+      "text": "Technical Specification\nVersion: 2.6.61\nRequirements:\n- Req1 14\n- Req2 31\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139550",
+        "document_id": "27efc167-aad2-436c-a121-bf916026fd05",
+        "confidence_score": 0.8144092892972887,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "de26e173-be25-4899-9970-e997bcf298ef"
+    },
+    {
+      "text": "Error Code: ERR_701\nDescription: Error Desc 96\nResolution: Resolution 94\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139912",
+        "document_id": "297e039a-800a-4559-92ea-fd87da00cdb4",
+        "confidence_score": 0.7463568707229504,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "8b506367-de6b-40ec-ada4-9d82def5d089"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 63, Company D hereby provides notice that Action 56.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137808",
+        "document_id": "75cedf4a-a10b-4660-9514-d1c7d89318b2",
+        "confidence_score": 0.9882362701643737,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "84fd3584-8e10-4c49-9ed5-8143e867f7f9"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 1059486\nBalance: $33422.30",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136312",
+        "document_id": "1cd2c268-2349-49a7-88a6-5f6bec32b23a",
+        "confidence_score": 0.7392458982105107,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d61f0385-fba6-4491-9391-120be5d55f19"
+    },
+    {
+      "text": "Error Code: ERR_993\nDescription: Error Desc 70\nResolution: Resolution 5\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139261",
+        "document_id": "07a0ac6f-f2da-4753-9cd9-ca7b97577915",
+        "confidence_score": 0.8852378384808169,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a980770d-9735-4c46-ab53-b5bcf1e4bb97"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-01-31\nDescription: Description 24\nAmount: $27926.66\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135916",
+        "document_id": "0d6e7eff-504c-4d2c-9c99-427f4ceaff8d",
+        "confidence_score": 0.7749419343646301,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a552654a-493e-4a55-82da-0261d9a002b2"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Q and Company U.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137793",
+        "document_id": "630da5a4-2be5-4963-8776-d11d5fa058a9",
+        "confidence_score": 0.8023693524583849,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "a6395f44-e215-453a-8736-54165ec68483"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/data\nMethod: DELETE\nParameters: Params 63\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140430",
+        "document_id": "873c316a-b0f2-44c2-9e09-ee3575141563",
+        "confidence_score": 0.8821228022323047,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a713f09b-6fe3-4334-bb3b-88fc0785acbc"
+    },
+    {
+      "text": "Error Code: ERR_379\nDescription: Error Desc 28\nResolution: Resolution 97\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140444",
+        "document_id": "f6aee006-ac78-43b1-b5b5-61df5160f809",
+        "confidence_score": 0.8537038917403315,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ef1dd5be-38e9-4536-8d7c-e01c380abee4"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/users\nMethod: POST\nParameters: Params 97\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139773",
+        "document_id": "1f8e4b3f-903e-4541-b94b-ffcc0e3d5e7f",
+        "confidence_score": 0.9899500628388256,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "1490eddc-bb1a-4494-830d-0ae69373cb0a"
+    },
+    {
+      "text": "Invoice #4226067\nBill To: Company W\nTotal Due: $7048.56\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135155",
+        "document_id": "aebbc370-f502-405f-b23e-aec1e7044787",
+        "confidence_score": 0.898378995570313,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "fd977ef3-63f2-47f9-887e-9dd6d800ae28"
+    },
+    {
+      "text": "CONTRACT for Service 79\nEffective Date: 2024-12-03\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137840",
+        "document_id": "31cda71c-8a6d-4d99-8a7a-2a2b0eb5c6c3",
+        "confidence_score": 0.9323924351114724,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "405f9229-69a4-40af-8379-0d2275072bd5"
+    },
+    {
+      "text": "Financial Report - Q4 2025\nRevenue: $898236.02\nExpenses: $746218.89\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136920",
+        "document_id": "3151bfd5-1e27-4c61-ab4c-3803c51ae849",
+        "confidence_score": 0.842402331046916,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "b4916d4b-2c5b-4cba-8b34-89c004e930c5"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/reports\nMethod: DELETE\nParameters: Params 23\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140516",
+        "document_id": "98505440-275f-4fed-9ed6-5a6e883439b5",
+        "confidence_score": 0.7387557105277645,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "0ff7a518-8cc8-4c81-a4ec-21ca80c22ca5"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company E and Company E.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138159",
+        "document_id": "6e50744e-5575-4261-a6e1-ce59ffdea6fc",
+        "confidence_score": 0.9433426228825142,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "3215b077-5171-4696-ba6f-670c05e23f09"
+    },
+    {
+      "text": "Error Code: ERR_171\nDescription: Error Desc 19\nResolution: Resolution 95\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140368",
+        "document_id": "079a857f-d5d9-4a1f-8870-73be0f3f097b",
+        "confidence_score": 0.8899516037966542,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "1debc4d7-f93b-4ce4-a6c2-c26bdd9f436b"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 36\n2. Term2 6\n3. Term3 7\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138093",
+        "document_id": "21958d60-7295-45cf-ae86-11309d342cfb",
+        "confidence_score": 0.8660076900395824,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "3f25cf12-3862-495a-9944-32916d5777d7"
+    },
+    {
+      "text": "CONTRACT for Service 11\nEffective Date: 2025-04-30\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138175",
+        "document_id": "eb93de8e-779e-4b93-8e56-03f72d6f50d1",
+        "confidence_score": 0.7355354686634384,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "7607c45f-04ab-494c-a1df-a900a591cd3c"
+    },
+    {
+      "text": "Technical Specification\nVersion: 2.1.80\nRequirements:\n- Req1 83\n- Req2 6\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139690",
+        "document_id": "663c425b-7727-47b4-b29d-8dc64710f206",
+        "confidence_score": 0.7926798651857908,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "05155a55-2b75-45ae-a437-cf94695ed906"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 25\n2. Term2 28\n3. Term3 95\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138045",
+        "document_id": "afbd2fd3-dbe3-4bc1-9331-29577df5cde8",
+        "confidence_score": 0.8452595761638126,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "caa5fb4c-bfec-405c-bf4a-b00bd191d7dd"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/users\nMethod: PUT\nParameters: Params 4\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139428",
+        "document_id": "17122178-bbea-4b3b-a49a-34739d641eee",
+        "confidence_score": 0.7137972906031638,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "5d3056f2-4b2e-45c9-bcb8-dac54c8d9147"
+    },
+    {
+      "text": "Invoice #9852897\nBill To: Company T\nTotal Due: $42371.48\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135655",
+        "document_id": "25e16c92-a287-4e32-a09f-17fc10d2e917",
+        "confidence_score": 0.7635394616326245,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "0f02b604-d233-4f6e-ab3c-5d98949ce94d"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.9.7\nRequirements:\n- Req1 46\n- Req2 65\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140738",
+        "document_id": "934326e5-3a41-4621-b2f2-b5f609c05703",
+        "confidence_score": 0.7222571968519863,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "7e833c87-a112-4e0f-b72d-21ba26af46c7"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.6.16\nRequirements:\n- Req1 77\n- Req2 91\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140903",
+        "document_id": "3f6478d0-7ace-40f2-a01c-3b9e657c511b",
+        "confidence_score": 0.9814006598697282,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "9c7f5d39-dd99-44ca-9c4a-7361fa0cd30e"
+    },
+    {
+      "text": "Invoice #3710895\nBill To: Company X\nTotal Due: $44239.37\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136330",
+        "document_id": "f235f6b4-3945-4715-8d0a-d60baef8d46a",
+        "confidence_score": 0.9117002340279972,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "b94ae9ca-cee4-4f9b-9155-24a64a45a19f"
+    },
+    {
+      "text": "CONTRACT for Service 24\nEffective Date: 2024-11-09\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138465",
+        "document_id": "f8f9ba4f-14eb-4281-b8bf-c4c471a0c104",
+        "confidence_score": 0.8307654961231009,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "82e57498-7b67-44b3-bb8e-11b4fd645ea4"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/reports\nMethod: POST\nParameters: Params 49\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140382",
+        "document_id": "a8a08c08-0051-4ef5-be27-9c2d1bfebbff",
+        "confidence_score": 0.825949748129351,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "445d5ff5-7870-41f4-bc0c-56d0ef058e4d"
+    },
+    {
+      "text": "Error Code: ERR_200\nDescription: Error Desc 98\nResolution: Resolution 82\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139305",
+        "document_id": "9091b95e-aca4-4cb1-aaf8-9ec6ee26d67e",
+        "confidence_score": 0.9111672487987114,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "2ac0784d-0f33-41ad-8f5b-667df802b91d"
+    },
+    {
+      "text": "Invoice #9508103\nBill To: Company J\nTotal Due: $66722.60\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136668",
+        "document_id": "baf09e74-9a1c-4324-9088-7db94c0fd112",
+        "confidence_score": 0.7978548714572199,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "13c5f74a-ffdd-4977-a67c-77c70bd61950"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-08-06\nDescription: Description 66\nAmount: $8103.14\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136073",
+        "document_id": "ae6bee96-31d4-496e-98fa-1c0087f0ec1f",
+        "confidence_score": 0.7557474882942169,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "e2e70b76-3dab-4c7d-98de-2639e7fda863"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company P and Company K.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137897",
+        "document_id": "6e2f11e4-34cf-49e8-abe9-0fe2875d4dbb",
+        "confidence_score": 0.7545519571473075,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "11180c0f-a882-4f3d-a081-1af625ac54e8"
+    },
+    {
+      "text": "Invoice #2566777\nBill To: Company Y\nTotal Due: $23563.37\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136780",
+        "document_id": "7373da37-0c5f-422d-9254-55a4e0118c9d",
+        "confidence_score": 0.7931258392884746,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "47979d6c-a752-4d9e-aaa2-71e7a84d4455"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/data\nMethod: POST\nParameters: Params 17\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139989",
+        "document_id": "19b3fea6-d4f7-4a8f-b8b6-c69743398efc",
+        "confidence_score": 0.9360934299928947,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ada3bbbd-4371-4638-a849-0c5196a94af9"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6098175\nBalance: $28762.68",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136730",
+        "document_id": "07c6cf6f-9495-4fea-aeac-55ea330af20b",
+        "confidence_score": 0.8289664449969504,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "598b53f7-7f7e-4e41-9362-ad140a69a11e"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Y and Company G.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138231",
+        "document_id": "427fcaf8-e268-446f-81f3-3b0df8173fef",
+        "confidence_score": 0.887654509121981,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "397c49a2-72a9-489a-9250-732534aafe52"
+    },
+    {
+      "text": "Financial Report - Q1 2025\nRevenue: $561831.74\nExpenses: $918295.31\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136867",
+        "document_id": "9c1d768e-61ac-4098-9d73-eb514cbccd35",
+        "confidence_score": 0.7364075797568153,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a8b2d382-b84a-471b-9902-9deb88ae468b"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/data\nMethod: POST\nParameters: Params 10\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139517",
+        "document_id": "cbdb743e-d0f4-4d30-b462-fae504088240",
+        "confidence_score": 0.8325189350811443,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "4a5de2ca-3772-4e74-8bdf-e15dc04c2337"
+    },
+    {
+      "text": "Error Code: ERR_679\nDescription: Error Desc 88\nResolution: Resolution 24\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139470",
+        "document_id": "7a4ef052-9870-4131-ab83-6dd457880c14",
+        "confidence_score": 0.7509950947204291,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "11e863f5-f530-4074-b051-7ef6939c1fe4"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 44, Company Z hereby provides notice that Action 65.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138727",
+        "document_id": "f97d0117-e1d1-4210-bb03-6ce27d9d4403",
+        "confidence_score": 0.7801517989200714,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "a092140d-bf65-4fae-a6e3-9ee4d503f078"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 4240180\nBalance: $39906.75",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136516",
+        "document_id": "8b94fae8-bb04-49b6-9661-8f54712fc074",
+        "confidence_score": 0.7835809183069011,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "930c189e-eaa6-4274-8eef-bf6156cdad78"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 35, Company J hereby provides notice that Action 33.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138017",
+        "document_id": "437a7573-3c56-419d-b741-957f20c81bad",
+        "confidence_score": 0.7691614123895523,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "4dd6f322-c976-45ca-8a50-39b0b4ad7e32"
+    },
+    {
+      "text": "Invoice #8350099\nBill To: Company Q\nTotal Due: $45203.47\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135757",
+        "document_id": "f86d5e6b-7c35-486b-a234-b017ba2b8279",
+        "confidence_score": 0.7743716840998024,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ba3ca942-30ab-4f85-b354-b166343463c8"
+    },
+    {
+      "text": "Financial Report - Q1 2025\nRevenue: $390919.64\nExpenses: $599929.54\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135415",
+        "document_id": "ee57adb1-8a91-42f5-a5e7-6926c651313a",
+        "confidence_score": 0.8404149663354031,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "b94e5d76-0828-42da-9896-4363cd7c5987"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 7003042\nBalance: $21086.65",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136397",
+        "document_id": "72dd7f1a-929c-42ab-9494-def6539c0e56",
+        "confidence_score": 0.7748589217668773,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "6c05ce91-f0cd-4089-bd3a-ff86cb988f2f"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6022741\nBalance: $93182.43",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136221",
+        "document_id": "272deeb4-be1e-488f-a7e8-9da5e4a62eb6",
+        "confidence_score": 0.7310759505754634,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "670f1943-a78b-42b1-b273-2091ec389742"
+    },
+    {
+      "text": "Invoice #6266630\nBill To: Company V\nTotal Due: $84816.73\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136629",
+        "document_id": "12512921-cfb4-451e-b583-746a379d5f30",
+        "confidence_score": 0.9159262789041851,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "6024bca4-7d59-44cf-b1cf-fc4af904df37"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 90, Company I hereby provides notice that Action 99.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137695",
+        "document_id": "1b4536f4-bf97-4b97-b9d3-6b7e72d7eead",
+        "confidence_score": 0.8106685522968824,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "32c04572-a553-4a1e-bedc-ae1a869adfeb"
+    },
+    {
+      "text": "Error Code: ERR_925\nDescription: Error Desc 38\nResolution: Resolution 96\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139757",
+        "document_id": "af848ec8-5476-418c-beb0-5d2ac6c5ad74",
+        "confidence_score": 0.9611190877975119,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "0adf5b0f-ad6a-4586-9617-a6f7c8c0e70c"
+    },
+    {
+      "text": "CONTRACT for Service 66\nEffective Date: 2024-09-08\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138667",
+        "document_id": "63e85420-aace-4c38-baa7-4762d546ce13",
+        "confidence_score": 0.7820274690139822,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "0812f5f7-fdba-4ab9-b5f2-017ca23542bb"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 44, Company F hereby provides notice that Action 7.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138133",
+        "document_id": "a1ba654e-d9ae-4b01-8c43-2cdb2cf95296",
+        "confidence_score": 0.7757435171478917,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "6f9d9d6b-a594-4423-a015-284a39a9cc36"
+    },
+    {
+      "text": "Error Code: ERR_951\nDescription: Error Desc 89\nResolution: Resolution 47\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140611",
+        "document_id": "fed995b3-0057-4cb4-bdce-d9b782dc58ac",
+        "confidence_score": 0.7264389643893654,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "2809a4e3-6781-455d-a429-4d0f19ba2f73"
+    },
+    {
+      "text": "Function: set_Report\nDescription: Description 20\nReturns: Return Type 10\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139210",
+        "document_id": "d4202a33-01ba-4b46-8f6f-ca714c70927d",
+        "confidence_score": 0.8408471802954196,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "90b78e99-1056-4990-b47c-33b74267ef7c"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company E and Company E.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137264",
+        "document_id": "77ac0290-d1a4-4a71-87c3-84fee73bc27b",
+        "confidence_score": 0.769378443918456,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "2b3e25e9-5ccc-43a0-8f67-82764344be57"
+    },
+    {
+      "text": "Error Code: ERR_381\nDescription: Error Desc 2\nResolution: Resolution 73\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139628",
+        "document_id": "62f6905a-57df-4268-8547-b1df88ec8b69",
+        "confidence_score": 0.9595202193091799,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "f851c704-4124-4cb1-8dba-e9d3ec71590b"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/reports\nMethod: PUT\nParameters: Params 46\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140279",
+        "document_id": "4853228c-88ca-4c02-bd72-29624d7bb2c6",
+        "confidence_score": 0.73108016977739,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "84ec159c-3366-4bb0-bc13-0f22275e2a78"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 3\n2. Term2 80\n3. Term3 20\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137666",
+        "document_id": "cac87d9a-1a78-40fb-81cb-579b31530c51",
+        "confidence_score": 0.7715634825666717,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "52e253ab-70c1-4c1a-abff-f492867fc473"
+    },
+    {
+      "text": "Invoice #2338687\nBill To: Company H\nTotal Due: $86661.72\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135172",
+        "document_id": "eb76ff73-73ae-4ba2-83a6-68ef0f5a208c",
+        "confidence_score": 0.8140378675117498,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f6e1a329-f368-4c8b-a781-cb51f718e362"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Y and Company A.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137651",
+        "document_id": "6c1c2be2-17c1-4506-8062-8537e2122c39",
+        "confidence_score": 0.9848835198147967,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "2009cb7a-18ae-4411-8b80-04d97466f494"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $926506.18\nExpenses: $244369.96\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136432",
+        "document_id": "500bb9af-a467-4a65-b60e-c7f8ba12603b",
+        "confidence_score": 0.7487505301301316,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d7dd92b8-050d-468a-baa5-1a2ab215f69f"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v1/data\nMethod: DELETE\nParameters: Params 68\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140627",
+        "document_id": "f7c7ad6b-0559-4957-9eed-96e254bcf1d9",
+        "confidence_score": 0.723594126244858,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "d0ea0678-5141-4da8-a055-cadc327045f1"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-07-01\nDescription: Description 85\nAmount: $47580.71\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135564",
+        "document_id": "1736b870-3178-4575-991b-89944d974555",
+        "confidence_score": 0.8649410780484832,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "5d0933da-8e2e-4e46-a77e-c6a7e18b0835"
+    },
+    {
+      "text": "Invoice #5437923\nBill To: Company Z\nTotal Due: $4440.70\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135119",
+        "document_id": "7d6a3e05-e8bd-4f47-9e97-185b4f8d7266",
+        "confidence_score": 0.8378274639015527,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "af54aa5c-91e2-48e6-8860-2e94c4850d36"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-04-22\nDescription: Description 15\nAmount: $88982.30\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136241",
+        "document_id": "cadef141-97c4-4c7f-955f-6122aa9ffcc9",
+        "confidence_score": 0.9227250051942996,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "c14d4c26-ec14-4598-92b1-9a3461b1072d"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 5682940\nBalance: $35179.50",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136528",
+        "document_id": "d6da6bd3-c93f-4f06-9545-fd316bea6857",
+        "confidence_score": 0.8528217026584112,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "eb4c0984-6da0-4a03-8fa9-dd84e2f6057f"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 12, Company P hereby provides notice that Action 45.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138479",
+        "document_id": "afce1acb-e992-4529-9f37-05b9d8b7093c",
+        "confidence_score": 0.8225044280290046,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "1819e03c-89c5-451b-ba64-db0072a17a3c"
+    },
+    {
+      "text": "Error Code: ERR_134\nDescription: Error Desc 75\nResolution: Resolution 47\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139707",
+        "document_id": "ee308afe-98e4-4e6f-8d0e-384cef480764",
+        "confidence_score": 0.9197079303817715,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "00a0fc3a-b910-47be-9394-d60d4bbd8dba"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $454716.96\nExpenses: $285408.80\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134912",
+        "document_id": "396a029e-f43f-42cf-9588-9a81b41bcea7",
+        "confidence_score": 0.9607900962378801,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d2144feb-57f9-4aef-876a-f771ed5e28fa"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/reports\nMethod: PUT\nParameters: Params 9\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140859",
+        "document_id": "0cbde615-d02c-48e5-bbc7-bb2bbad56389",
+        "confidence_score": 0.7989072265353186,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "642f8093-4a85-42a6-8261-4c431a230f61"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-04-27\nDescription: Description 6\nAmount: $70907.65\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136593",
+        "document_id": "f00ea82f-c357-4355-b1b5-40821137e484",
+        "confidence_score": 0.7005073834655888,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "908c17ed-818f-4db7-8f48-499b2839d167"
+    },
+    {
+      "text": "Function: set_User\nDescription: Description 30\nReturns: Return Type 53\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140188",
+        "document_id": "7b104b27-3fc1-4a3a-8a7c-a4bb8b4ff1e6",
+        "confidence_score": 0.8016794856505525,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "0dcff260-c904-48ce-a202-4e70dd709e5b"
+    },
+    {
+      "text": "Technical Specification\nVersion: 4.0.7\nRequirements:\n- Req1 62\n- Req2 52\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140111",
+        "document_id": "ade85f36-6081-432b-9a5b-511d4a033868",
+        "confidence_score": 0.8278820857839975,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "576ea835-00fe-43c6-bab4-0653b27aa225"
+    },
+    {
+      "text": "Function: get_Report\nDescription: Description 33\nReturns: Return Type 23\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140034",
+        "document_id": "880b266e-8bc3-4d4d-b5d4-472d1d2bccd5",
+        "confidence_score": 0.7329779043668306,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "889700ce-b0a7-4547-bb01-2b1bc331183d"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2788238\nBalance: $77864.20",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136849",
+        "document_id": "e09d392e-6d02-4017-8b4c-fe5b90f70610",
+        "confidence_score": 0.7656523410436958,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ebe67cfe-dcea-4701-b80f-5e867dd74b97"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 16, Company O hereby provides notice that Action 89.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138361",
+        "document_id": "678a8510-fd63-44dc-a1dc-74687f073467",
+        "confidence_score": 0.79122735716343,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f8add2a2-f1ad-49fd-ad62-2843252c2705"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6261415\nBalance: $5810.81",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136052",
+        "document_id": "b5a98c0e-4a94-46e8-8526-7d55cfd4dfb3",
+        "confidence_score": 0.8752532783376914,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a559d47d-7521-4885-948f-80f0df36d6dd"
+    },
+    {
+      "text": "Error Code: ERR_508\nDescription: Error Desc 54\nResolution: Resolution 94\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140202",
+        "document_id": "a56ca840-b38a-4984-820f-6e1d5146c825",
+        "confidence_score": 0.7285257517826892,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a5cddbd8-52d7-4ca9-9243-5e798d8fc3fb"
+    },
+    {
+      "text": "Financial Report - Q3 2025\nRevenue: $312138.96\nExpenses: $797392.04\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136502",
+        "document_id": "a5c54ed3-aa85-402c-b781-e10476da95ae",
+        "confidence_score": 0.7682786462223311,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d998f5e0-e652-4911-8a0b-74af207aee45"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6438436\nBalance: $48911.71",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135514",
+        "document_id": "f046c2cb-671f-43cf-bffa-5063dd5ee815",
+        "confidence_score": 0.7335603175962685,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "847b29bd-77c8-4e09-ab72-b702ff331fec"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Z and Company S.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137760",
+        "document_id": "3e23b908-827a-42e7-aea2-9e84682e3bba",
+        "confidence_score": 0.9347906039083058,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "9fd1650f-2780-4acd-be70-d9f08ac38fe5"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2564689\nBalance: $92644.06",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135959",
+        "document_id": "e85d9289-cffc-4e2e-80e4-a3fb52c24c25",
+        "confidence_score": 0.9546087203242917,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "875d653c-ad09-4c97-a560-6c6f40b49580"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 14\n2. Term2 90\n3. Term3 99\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137748",
+        "document_id": "a7720795-9f78-482e-b373-d86eb8adbfb5",
+        "confidence_score": 0.7904748056463,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "6baf281b-7a1d-4b9c-89cf-124e98db5a8c"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/users\nMethod: DELETE\nParameters: Params 58\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140078",
+        "document_id": "81779ffa-cd6a-499f-9df7-605ee13c307f",
+        "confidence_score": 0.9334051117942608,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "6ed598dd-978a-46d6-97f4-cefbb774809a"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 1419610\nBalance: $74180.89",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134556",
+        "document_id": "1e5dcf2d-5d00-41f0-b52a-3ffcdfd88733",
+        "confidence_score": 0.7734675561410428,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "af61db27-fe7b-41d2-a936-82803924566f"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.5.27\nRequirements:\n- Req1 57\n- Req2 57\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139941",
+        "document_id": "b4f1f00f-7970-4f92-b255-be2e74c4bb30",
+        "confidence_score": 0.9851665509554282,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "d1a13b9e-9a5e-43d4-ab8c-be3d4c0000bd"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 35\n2. Term2 19\n3. Term3 10\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138332",
+        "document_id": "b8947516-e7be-449a-9189-a0a7f6c61255",
+        "confidence_score": 0.7178914118541541,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "45ed52d0-b409-4b4a-8251-4fe0cf5b09c5"
+    },
+    {
+      "text": "Error Code: ERR_872\nDescription: Error Desc 73\nResolution: Resolution 98\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140706",
+        "document_id": "4a312cb0-fed1-4190-aa7c-99508b36a537",
+        "confidence_score": 0.8738404269119469,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "b95d7197-ef23-444d-b4ad-3ddb5ccfbbcc"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 8896868\nBalance: $22321.13",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136485",
+        "document_id": "e47e9414-f195-43ca-9c95-88de0af3c564",
+        "confidence_score": 0.9449759816790787,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "16dc1f78-537a-429a-84a3-aad7b4e5e2bf"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.9.48\nRequirements:\n- Req1 82\n- Req2 48\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139819",
+        "document_id": "d86c3e27-161c-4a78-b6c1-c90155cad81f",
+        "confidence_score": 0.7325038306597692,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "b8c941fa-36d4-46f8-b8a3-dd2e02ae73e2"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-10-24\nDescription: Description 73\nAmount: $30164.89\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136714",
+        "document_id": "b5411531-43b0-4650-b0aa-db88c84e5e79",
+        "confidence_score": 0.8643811639407094,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "31c722c9-15f4-461b-a900-55fe88f3c38c"
+    },
+    {
+      "text": "Error Code: ERR_822\nDescription: Error Desc 49\nResolution: Resolution 50\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138969",
+        "document_id": "30d934a2-825c-4452-9c18-838ae1b5151e",
+        "confidence_score": 0.9965242005818087,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "be9682f0-2e57-4a14-a752-253019f190b8"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 53, Company B hereby provides notice that Action 25.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138568",
+        "document_id": "2483ef77-3a84-41e0-8030-c07e77603141",
+        "confidence_score": 0.8555318177382186,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "96bf843e-2623-4f70-9102-96a89ff1dd46"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2437026\nBalance: $73217.57",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135544",
+        "document_id": "18d84f52-f28d-4a27-8315-d148b8e79f34",
+        "confidence_score": 0.9448069760260266,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "098bafdb-86c9-4b04-9b73-00dcf0e9c6f9"
+    },
+    {
+      "text": "Financial Report - Q1 2025\nRevenue: $39499.25\nExpenses: $226451.60\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134866",
+        "document_id": "fd1039e8-7a39-4ee3-9673-b87684cb9c35",
+        "confidence_score": 0.8516065864310087,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "d76685ec-1885-468a-aa94-0c95fb703a21"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 11\n2. Term2 31\n3. Term3 93\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137943",
+        "document_id": "69ef57c4-37a9-45ee-a5eb-4d52e0bf38c7",
+        "confidence_score": 0.8219284374011557,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "168bfbf4-373f-47bb-9097-45f5ac581d69"
+    },
+    {
+      "text": "Invoice #1852264\nBill To: Company C\nTotal Due: $63465.02\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136298",
+        "document_id": "fcbf1e2f-b627-42e7-aa6e-83b9cb504604",
+        "confidence_score": 0.9488044268116658,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "da086ca4-58f8-4733-8874-2eed71f5148f"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.5.14\nRequirements:\n- Req1 98\n- Req2 36\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140309",
+        "document_id": "8b50e85d-528e-4669-b413-38cd37c3680d",
+        "confidence_score": 0.8722300012994388,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ae571694-2b1c-401f-8f96-9b89eba5170a"
+    },
+    {
+      "text": "Function: process_Data\nDescription: Description 23\nReturns: Return Type 99\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140691",
+        "document_id": "022fcc4d-f644-407e-96ff-61361aa5b192",
+        "confidence_score": 0.8883846316355102,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "4cfd347f-d2ad-43e4-af3b-bd38c4eaaafc"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 10, Company V hereby provides notice that Action 30.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138302",
+        "document_id": "c49d6bf3-7186-4be6-8823-668a6894fcd8",
+        "confidence_score": 0.9771733133447646,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "d25bd3ca-b695-4928-8051-014c299b8cf6"
+    },
+    {
+      "text": "Technical Specification\nVersion: 2.2.97\nRequirements:\n- Req1 33\n- Req2 38\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140497",
+        "document_id": "b61c9077-1878-4708-990f-9a14af9b0642",
+        "confidence_score": 0.7984367067813523,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "0e855edc-d534-47a8-91db-364e662e322d"
+    },
+    {
+      "text": "Invoice #8425149\nBill To: Company T\nTotal Due: $81519.15\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136902",
+        "document_id": "6f384e94-fcfb-46e8-bfd3-35af17e58c1d",
+        "confidence_score": 0.9676060889023055,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "1995bd30-42a3-44c8-bbf1-b1be3dcfaccd"
+    },
+    {
+      "text": "Error Code: ERR_339\nDescription: Error Desc 100\nResolution: Resolution 53\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138942",
+        "document_id": "aa37fa8a-9e99-4bca-9396-7d8d09e9d3ba",
+        "confidence_score": 0.7130941897291906,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "f7b72596-b49a-4ea8-83a6-2fd5bb4bf04e"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 82\n2. Term2 97\n3. Term3 63\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138107",
+        "document_id": "6587de64-d41f-4d2f-aadf-a97dd559f151",
+        "confidence_score": 0.7307762940363282,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "e2f8aeb3-92b4-4c4d-b249-ad7ee523b5bf"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Y and Company S.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137357",
+        "document_id": "22dea911-e303-4498-b4c6-d004fe5ff6a1",
+        "confidence_score": 0.8141143086783135,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "6a7bb801-44e6-41ef-a0cb-2fe48a23965d"
+    },
+    {
+      "text": "Function: process_User\nDescription: Description 9\nReturns: Return Type 12\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140234",
+        "document_id": "67f984b0-cc2b-4583-8853-8c7979b5259b",
+        "confidence_score": 0.9495315665424564,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "12b807a4-233b-44ab-aec4-c1ed114d1346"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 40, Company S hereby provides notice that Action 80.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138218",
+        "document_id": "750d4641-a335-4e19-97de-80894953f43c",
+        "confidence_score": 0.7180690913117622,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "8ac33ad1-6bf0-4d00-b414-c56763edbe12"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 8231838\nBalance: $35494.33",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135869",
+        "document_id": "c60fdc9a-2bbd-40a0-a9eb-3c90209f21c5",
+        "confidence_score": 0.8233306828149214,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f665d0c3-cf47-44a5-8606-cdb9a4a088c9"
+    },
+    {
+      "text": "Invoice #6159230\nBill To: Company H\nTotal Due: $5886.72\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135531",
+        "document_id": "4e4040e4-7f07-49cc-8330-5e19e5c6eb89",
+        "confidence_score": 0.9634028797612122,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a3a87c8a-25cd-491d-b2e0-1bcd764df847"
+    },
+    {
+      "text": "Function: set_Data\nDescription: Description 75\nReturns: Return Type 85\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140888",
+        "document_id": "bf1bab35-4861-4f94-a91b-7c68d6d15cde",
+        "confidence_score": 0.7424285141752953,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "296d9cd6-cde7-4a76-9e31-f5e1bdb09ed4"
+    },
+    {
+      "text": "Invoice #6707197\nBill To: Company D\nTotal Due: $29420.66\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135449",
+        "document_id": "3285ae88-7a29-4ca4-b456-daca3af0e7a5",
+        "confidence_score": 0.7474473263034008,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "5e8d1571-0195-4a47-9e47-2bda519651b6"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company S and Company A.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137719",
+        "document_id": "b5fe637b-14ea-44c2-95d9-f43f76ae39b4",
+        "confidence_score": 0.9786661505221365,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "5cf1f146-c02d-43d6-a25d-5841b601454b"
+    },
+    {
+      "text": "CONTRACT for Service 69\nEffective Date: 2025-01-28\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137780",
+        "document_id": "b6b9d98d-5217-4bca-9607-ef187cb26a2f",
+        "confidence_score": 0.8984564022062067,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "681f8b65-6c4c-4988-92f9-130f1a1aaf40"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 90, Company P hereby provides notice that Action 16.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138612",
+        "document_id": "3d66cf97-230e-4894-a396-c010bfaa74f5",
+        "confidence_score": 0.7086608327324989,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "add9958c-4bee-4bc5-84bb-a965c493e7c7"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/data\nMethod: PUT\nParameters: Params 56\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139450",
+        "document_id": "28a5fdb9-f2d9-4671-8d35-bf3f35c15e33",
+        "confidence_score": 0.7436709387098195,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "9ac478c7-3ad0-40e5-911b-58ff7d8a6347"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-06-21\nDescription: Description 4\nAmount: $4716.75\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136800",
+        "document_id": "7e072a96-260c-4b31-b3cc-7625eb3e2fd6",
+        "confidence_score": 0.9951808068345555,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "1a94dcd8-4763-45e5-8304-986a7d6a0126"
+    },
+    {
+      "text": "Function: set_Data\nDescription: Description 17\nReturns: Return Type 65\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139072",
+        "document_id": "1638c280-9fe0-47b9-bdf1-ac926905f842",
+        "confidence_score": 0.9896060770530561,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "da81b91d-7a94-4ccb-865b-59c94308d22a"
+    },
+    {
+      "text": "CONTRACT for Service 33\nEffective Date: 2025-03-23\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138539",
+        "document_id": "e5440fa1-8755-412e-a131-c7c36666d1ef",
+        "confidence_score": 0.7347764804292873,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "d2803523-f98d-4278-b434-2435160eecf5"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company L and Company J.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137371",
+        "document_id": "617e5679-b2f9-4e1f-9f8a-962c3ce9abdb",
+        "confidence_score": 0.9260425375178157,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "e46fcb72-70a1-46ca-aa7c-eab35f143e0f"
+    },
+    {
+      "text": "CONTRACT for Service 13\nEffective Date: 2025-05-28\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138062",
+        "document_id": "375f4723-84bd-4ff7-ad03-9e3ba9c17933",
+        "confidence_score": 0.7888739389795433,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "6c0e0dc2-1d15-4b8a-bb7f-a014f8110d8f"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 91\n2. Term2 21\n3. Term3 40\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138626",
+        "document_id": "d884662f-1972-4ba9-a2c7-3897697c7d38",
+        "confidence_score": 0.8652517021008009,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "9b360c1e-d8d2-4bf4-9fb6-765652ccd06b"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 73, Company T hereby provides notice that Action 86.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137885",
+        "document_id": "e9d7295f-27d8-4813-8723-c8cc1eb4f5d1",
+        "confidence_score": 0.8136967912384792,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "b83565fc-f182-4663-b1e5-233ef5cfde95"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 3, Company C hereby provides notice that Action 38.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137972",
+        "document_id": "9ed9b2d5-01d6-46b5-b100-35d8f44557b3",
+        "confidence_score": 0.766478920141759,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "214c102e-c80a-468a-a776-a1181b1a468d"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.6.45\nRequirements:\n- Req1 86\n- Req2 97\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140265",
+        "document_id": "97085122-c41e-4cc5-8239-478dcfcf7956",
+        "confidence_score": 0.826881056729165,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "77452473-66d8-4d06-a68f-8d56c460610c"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-09-01\nDescription: Description 10\nAmount: $70813.31\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135797",
+        "document_id": "4e28687f-62f5-4b6b-83a2-53d7b7df3fef",
+        "confidence_score": 0.717662130062897,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ac08ecef-75bf-4641-96b9-d06d0e7f04ee"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2876932\nBalance: $7616.86",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136345",
+        "document_id": "93184ab8-716a-4426-9a47-553474b02418",
+        "confidence_score": 0.9649319179900429,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ae7225e7-60b0-4ee3-b17e-3a0d866ad9e5"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 1527021\nBalance: $85977.58",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135812",
+        "document_id": "078594e4-8047-4d07-aff5-52af6a9870a8",
+        "confidence_score": 0.721257204966596,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "4bc992d5-7f03-4cb8-ae0b-b7dcb50edae0"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 59\n2. Term2 42\n3. Term3 44\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137601",
+        "document_id": "c181ec5e-7b9c-4fa5-956d-70cc87245665",
+        "confidence_score": 0.9283689123682082,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "2435f11d-c855-4d1c-97ce-b192598dc32b"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 89, Company T hereby provides notice that Action 61.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138274",
+        "document_id": "98ba7f4d-b42e-4289-b805-1df17b4c5861",
+        "confidence_score": 0.7873777867093082,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "5f564cfb-172a-4e17-9dd8-7a1873b39040"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.3.42\nRequirements:\n- Req1 100\n- Req2 22\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140643",
+        "document_id": "860c42d3-bf74-4348-a949-0bb4ac0ecc92",
+        "confidence_score": 0.7229138132419063,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "26ef160d-59ac-4d53-ad00-b3c3091667fa"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 51, Company W hereby provides notice that Action 26.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137733",
+        "document_id": "b8fde87b-48b5-4cd9-be1b-e2c9298fb2d7",
+        "confidence_score": 0.7227989433529179,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "2003dd15-dcfc-4349-912b-e97542380184"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 55\n2. Term2 15\n3. Term3 70\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138317",
+        "document_id": "4e4f2354-a5b1-4f47-9258-e1a9b5684faf",
+        "confidence_score": 0.7674428350798072,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "1b98ca72-4e74-4b33-965f-ae7774682eb4"
+    },
+    {
+      "text": "CONTRACT for Service 25\nEffective Date: 2024-09-12\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138784",
+        "document_id": "9a90da24-747f-46a8-807a-94a74196de98",
+        "confidence_score": 0.7716416632498748,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "25dc6875-2940-46ce-9668-bd1ff0e2f5c4"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.7.12\nRequirements:\n- Req1 68\n- Req2 59\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139188",
+        "document_id": "97e17342-ad11-49bb-967b-b6b66e0440e1",
+        "confidence_score": 0.7046042793745781,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ad835a47-781e-4a33-98f1-f8fa74c57fb7"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/reports\nMethod: PUT\nParameters: Params 4\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140338",
+        "document_id": "49e614a8-4b21-46b5-85ae-8b966cdfe7d1",
+        "confidence_score": 0.7541248215882563,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "6d03a963-8300-4e30-b152-0d60cc57b2ac"
+    },
+    {
+      "text": "CONTRACT for Service 55\nEffective Date: 2024-11-27\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138002",
+        "document_id": "6c4a46fa-c07c-40a2-9605-de77fe01084e",
+        "confidence_score": 0.799237389158779,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f68736a4-e5a0-42cf-b641-c646cb6e7ae4"
+    },
+    {
+      "text": "Invoice #5374922\nBill To: Company G\nTotal Due: $67005.62\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136122",
+        "document_id": "6bc10794-8efe-4ca8-ab35-177e153d2654",
+        "confidence_score": 0.7942551588386728,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "4453604b-e58e-403f-b24e-b127448ca840"
+    },
+    {
+      "text": "Error Code: ERR_562\nDescription: Error Desc 5\nResolution: Resolution 8\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140753",
+        "document_id": "c39ae38f-9989-4086-91c3-8fb792208c63",
+        "confidence_score": 0.8106212798469438,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "9ca5bed0-38f3-4119-a730-682fe46be1fe"
+    },
+    {
+      "text": "Error Code: ERR_687\nDescription: Error Desc 52\nResolution: Resolution 91\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140578",
+        "document_id": "720d3e91-2978-4877-9e3e-474cca4b0525",
+        "confidence_score": 0.8920425007142736,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "bfed9106-a23c-45b5-a147-1d8c8a8f2898"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 36\n2. Term2 57\n3. Term3 10\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137165",
+        "document_id": "a0998cd5-2df7-4cba-a159-eea4dc7dda57",
+        "confidence_score": 0.914063458783317,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "5c94e61a-cbe0-4448-9fe3-19c4b20f7518"
+    },
+    {
+      "text": "Invoice #1641849\nBill To: Company D\nTotal Due: $59697.47\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136559",
+        "document_id": "533afaa5-f67f-471f-9b35-c7d7de8be13f",
+        "confidence_score": 0.80370613350394,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "0de64314-6b13-41b2-a8cf-139dda23daf5"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 7350753\nBalance: $7972.14",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135136",
+        "document_id": "e4c04b75-b38b-421c-8e5b-c788f06e41b1",
+        "confidence_score": 0.7879534844221279,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ffae744d-a2d6-427d-ba79-1c410b431998"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/reports\nMethod: POST\nParameters: Params 79\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140094",
+        "document_id": "4512a025-5a5b-4b08-8b00-1bf554f916fe",
+        "confidence_score": 0.7130095110697515,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "4004e1c5-1d0e-4aac-bea5-d07684ce87d3"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-09-19\nDescription: Description 42\nAmount: $84300.91\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135251",
+        "document_id": "7c69cdd6-f860-4d6b-8fb1-f7a04fad4e20",
+        "confidence_score": 0.9327999734638734,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "6db2d69e-b62f-470d-8710-11ab3ef509e4"
+    },
+    {
+      "text": "CONTRACT for Service 71\nEffective Date: 2024-11-30\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138768",
+        "document_id": "fcc53294-398d-4745-90aa-895121a07236",
+        "confidence_score": 0.8131630162641658,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "a5187230-6dc9-40bf-a819-c157be4f8ac1"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company J and Company X.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138739",
+        "document_id": "8839717d-76e6-408d-ae25-ac4a5be39ca5",
+        "confidence_score": 0.7895667549315302,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "55e87354-8699-404a-bcde-9f661ee73b7e"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-03-02\nDescription: Description 56\nAmount: $7090.38\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136614",
+        "document_id": "430690ad-4615-4faf-a39e-3dc7cd5549bb",
+        "confidence_score": 0.8992713054733816,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "14b46ea1-b5ca-4e1e-ad75-ae353a2e4588"
+    },
+    {
+      "text": "CONTRACT for Service 74\nEffective Date: 2025-08-15\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138435",
+        "document_id": "95272ff5-a770-49cc-be1e-516dd73a3b91",
+        "confidence_score": 0.9289327012515116,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "84d37019-d751-4f3a-a358-6dadf3707763"
+    },
+    {
+      "text": "Invoice #2217071\nBill To: Company A\nTotal Due: $45882.72\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136152",
+        "document_id": "4fd04f59-0bb3-4d8d-b9bd-afd14e78e748",
+        "confidence_score": 0.9995363322563326,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "f60b3e7e-6161-4117-934e-8b964f392a71"
+    },
+    {
+      "text": "Technical Specification\nVersion: 4.1.36\nRequirements:\n- Req1 87\n- Req2 87\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140460",
+        "document_id": "f4ed4d3a-ee2d-4823-9921-0276d4700c75",
+        "confidence_score": 0.8779402751176791,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "4f67ea88-3ec3-4e5e-a5d2-e26eeeb76dba"
+    },
+    {
+      "text": "Error Code: ERR_965\nDescription: Error Desc 72\nResolution: Resolution 99\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140323",
+        "document_id": "97bc0cab-5404-40c9-882d-3b545b02612c",
+        "confidence_score": 0.9455280578622008,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "846d3b76-994a-42dd-b058-4cc7b2a5dcab"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 71\n2. Term2 10\n3. Term3 21\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138260",
+        "document_id": "e325e338-8125-49f2-b367-5d103f1f0065",
+        "confidence_score": 0.7008027167808657,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "1a89e780-9a2a-4586-ab6f-8fa4ec6240d3"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-01-27\nDescription: Description 17\nAmount: $4278.70\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136384",
+        "document_id": "bf8f17c5-1d92-49f7-9b8a-02bd624fea40",
+        "confidence_score": 0.8093954545981767,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "1cfaab47-636c-4f37-8674-1f826fb3598d"
+    },
+    {
+      "text": "Technical Specification\nVersion: 2.1.58\nRequirements:\n- Req1 12\n- Req2 85\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139972",
+        "document_id": "b0f06bd9-dba3-47ad-9916-8745370edd5d",
+        "confidence_score": 0.7636317446269939,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a1161539-7cbf-482e-bf1b-749e25fa45d8"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 36, Company Y hereby provides notice that Action 54.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137615",
+        "document_id": "e9001171-d3f8-4fd1-ab42-28f8c5070762",
+        "confidence_score": 0.7756814595347141,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "7ff7a375-0671-4d0c-b479-ef30a330ff5c"
+    },
+    {
+      "text": "Error Code: ERR_218\nDescription: Error Desc 13\nResolution: Resolution 31\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139881",
+        "document_id": "c7e39029-4386-481c-9ff9-d4fb30defd4d",
+        "confidence_score": 0.9661777925585506,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "bed71a38-c71c-4b65-93f3-305fd47a81c3"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-04-18\nDescription: Description 37\nAmount: $60522.50\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136260",
+        "document_id": "2e685857-1e95-4487-84a1-1317eba160b4",
+        "confidence_score": 0.9152836561416393,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "589c80d6-2689-4f21-b18c-98e6ab0656c4"
+    },
+    {
+      "text": "CONTRACT for Service 71\nEffective Date: 2025-06-29\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138598",
+        "document_id": "de6cea64-ecf8-4b61-9ccb-3d31a210cfb7",
+        "confidence_score": 0.9783018282533343,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "76f8ac16-50d5-4181-a35f-047a79a069bd"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 12\n2. Term2 36\n3. Term3 58\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137871",
+        "document_id": "57becf77-4525-4b89-b1ab-ee393318130a",
+        "confidence_score": 0.7731590317572867,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "78d20869-f93d-40d4-8f97-fefb263b601f"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 8434500\nBalance: $80821.42",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135929",
+        "document_id": "9072da0a-963d-4f61-a93f-1e67344bed5a",
+        "confidence_score": 0.9567900677405119,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "7f9a3d36-7cb4-47d8-b5c0-60b33bec268a"
+    },
+    {
+      "text": "Error Code: ERR_770\nDescription: Error Desc 13\nResolution: Resolution 63\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139926",
+        "document_id": "be81c23f-13dd-48bd-972a-60dd6ba16302",
+        "confidence_score": 0.8846956642153468,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "43ebc9fb-81d4-4331-ac98-7ba804bdf2ee"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 15, Company C hereby provides notice that Action 52.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138148",
+        "document_id": "8c3b2055-4d06-455d-a4db-7e5a70e6cac8",
+        "confidence_score": 0.8475239680873203,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "794633c6-62fd-4989-bcf8-453bef1b26be"
+    },
+    {
+      "text": "Invoice #8187926\nBill To: Company S\nTotal Due: $40000.11\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135354",
+        "document_id": "d861e9e0-6e95-4f1e-81b4-c84b1a72ac81",
+        "confidence_score": 0.7657962277471849,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "2a9295d9-1d15-4103-b8c6-627a608bcaf2"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 37\n2. Term2 91\n3. Term3 37\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138288",
+        "document_id": "f305e47e-b53e-4849-a4af-c84fb3e61bb2",
+        "confidence_score": 0.9108962674281151,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "f2effae5-e895-4677-a24b-30a155a91647"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.3.50\nRequirements:\n- Req1 77\n- Req2 8\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140475",
+        "document_id": "5f3dc609-fdb6-42be-b550-5ba815d5ceab",
+        "confidence_score": 0.7023061257699649,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "711b242c-6430-4995-8cde-73a9f62b58be"
+    },
+    {
+      "text": "CONTRACT for Service 86\nEffective Date: 2025-07-13\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138494",
+        "document_id": "5ae5b9ea-0cc6-4393-b8e9-499f9b87b374",
+        "confidence_score": 0.9573199283201057,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "c5215e75-bca7-45f1-a06c-bcb0b80aa7b1"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-11-29\nDescription: Description 5\nAmount: $83476.04\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136365",
+        "document_id": "9935b1cb-fda3-4963-96a0-8f08662d14a6",
+        "confidence_score": 0.8747528699469382,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "8527b715-fa9c-4d63-979a-8bee95ab0c65"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 35, Company Q hereby provides notice that Action 70.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138375",
+        "document_id": "943e0d40-92cf-4756-83c6-a4ab1a8bc5c3",
+        "confidence_score": 0.8481385658035252,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "29f9851a-e342-454c-bdc7-3a963297c3ee"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-11-12\nDescription: Description 77\nAmount: $4070.19\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136106",
+        "document_id": "a52265f4-c86e-4238-a7e1-fba60ef227ff",
+        "confidence_score": 0.7245950216484626,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "7fff78ad-b288-4ed8-ad1c-0c949749dc7b"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $662262.24\nExpenses: $290948.54\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136765",
+        "document_id": "d2a6cb2c-c36b-40ee-92db-73edb4e85f42",
+        "confidence_score": 0.8991561508914996,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "2aeb84ab-2128-4109-a952-9f1a0dc1d5be"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-09-13\nDescription: Description 50\nAmount: $49488.28\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136835",
+        "document_id": "acdddb01-bc8d-4303-94a2-68206dcd9e86",
+        "confidence_score": 0.7731953318735316,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "5c09e3e3-048d-43c3-ad0f-936b996a211e"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 5171761\nBalance: $19239.85",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135896",
+        "document_id": "b766c175-861d-4f64-a36b-02bb1b06f4dd",
+        "confidence_score": 0.8608857261731033,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "40b42fdc-7d53-4342-aafb-5b6ee35b07c1"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 8640615\nBalance: $41502.66",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136815",
+        "document_id": "bde04fd8-a76b-485a-9430-416d108d085f",
+        "confidence_score": 0.8889296142213141,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "08750b6d-8217-49b3-8946-2e0a145e2dc3"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/data\nMethod: POST\nParameters: Params 64\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139486",
+        "document_id": "c1c2e695-b875-4471-a384-f43ce3d7d032",
+        "confidence_score": 0.9738487048070664,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "488be0d5-7533-4a94-827a-e17bd02643fe"
+    },
+    {
+      "text": "CONTRACT for Service 85\nEffective Date: 2025-07-25\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138246",
+        "document_id": "e22a9e52-74a1-494f-a8dd-f8e8dfb6318c",
+        "confidence_score": 0.7471171280142631,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "b1e3af1a-4379-4fd4-8b29-6ffeab58f8d6"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 24, Company B hereby provides notice that Action 34.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137584",
+        "document_id": "c4c6ef0d-310d-4fce-95e4-369bd176ec49",
+        "confidence_score": 0.8137311592564418,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "72c96a52-d3b8-494d-a57e-1f5c96ebb15f"
+    },
+    {
+      "text": "Error Code: ERR_549\nDescription: Error Desc 68\nResolution: Resolution 67\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140829",
+        "document_id": "47445fc9-b584-433f-b77a-5c18c573657a",
+        "confidence_score": 0.8829416218968023,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "a2393a99-9b88-46f9-b840-cbaa69c0735c"
+    }
+  ],
+  "test_samples": [
+    {
+      "text": "Transaction History\nDate: 2025-01-10\nDescription: Description 86\nAmount: $53160.08\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136886",
+        "document_id": "63002609-3a20-493f-aa7e-0a087b71ddd6",
+        "confidence_score": 0.8676775871115602,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "b1531c8f-6471-4e60-b2b8-f53fad4efe21"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6007072\nBalance: $84182.77",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135477",
+        "document_id": "ea9df1a1-0099-498a-86dc-b2a70fdb065a",
+        "confidence_score": 0.8522988645932903,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "ff33ebb8-4aa4-4a59-be37-b04f22d98ff3"
+    },
+    {
+      "text": "Function: process_User\nDescription: Description 29\nReturns: Return Type 82\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139673",
+        "document_id": "cb4f978e-fd38-4698-99c9-ef47e73fd217",
+        "confidence_score": 0.7570395967831265,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "d47ebc95-ddd4-4496-ad7b-faa7ee6bd8be"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-01-23\nDescription: Description 70\nAmount: $70383.64\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136207",
+        "document_id": "555b8bd2-7955-49a5-9ae1-8e366c15661f",
+        "confidence_score": 0.883503329717785,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "cb9d63da-57c9-4cb1-a47c-857dbc78f4b0"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.4.89\nRequirements:\n- Req1 38\n- Req2 3\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139567",
+        "document_id": "1f141caf-2acc-4aff-829c-2b467f987742",
+        "confidence_score": 0.9933833453730587,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "d8a94527-bf80-424b-a6e8-0cef17c53b46"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 3564251\nBalance: $62781.86",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135395",
+        "document_id": "a1fa3c5a-0b57-46dc-b2fc-e194cdb02b1c",
+        "confidence_score": 0.9376238093088892,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "1d3d5497-fe5a-487e-bbe7-a7b2905666a1"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $274137.65\nExpenses: $789500.76\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136471",
+        "document_id": "b2108353-2b28-43f2-96b6-9e19b10a65ec",
+        "confidence_score": 0.7324286879208871,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "38909290-9f65-4790-8fa7-2179502fa8e7"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 20, Company O hereby provides notice that Action 69.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138753",
+        "document_id": "7ea98992-a632-4a89-ac97-faeb3226a054",
+        "confidence_score": 0.8453024156655161,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "a60f1882-0670-4778-aa1e-035cf0572018"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-03-10\nDescription: Description 9\nAmount: $87939.10\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136186",
+        "document_id": "12b32e57-8758-4d36-b570-6ba6241d59c4",
+        "confidence_score": 0.8108581266216651,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "309a5869-eecd-4c74-95b3-7ea14fc0ab54"
+    },
+    {
+      "text": "CONTRACT for Service 77\nEffective Date: 2024-11-17\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138347",
+        "document_id": "d0170c89-b7bc-429a-9a5f-76944ce72f63",
+        "confidence_score": 0.9763577586902914,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "d1f91aad-1088-4118-ab84-28382ad9e755"
+    },
+    {
+      "text": "Financial Report - Q3 2025\nRevenue: $171027.56\nExpenses: $361717.99\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135192",
+        "document_id": "332a0967-4e9c-45b5-94b1-60f46fdce0a9",
+        "confidence_score": 0.9010525523133079,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "4711ab0a-bb43-48a8-af72-43805cc7f0e0"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $272231.36\nExpenses: $254161.23\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135335",
+        "document_id": "e7f05598-e815-4b6b-8743-eb3eb42ba4c6",
+        "confidence_score": 0.8684104402489452,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "0c211d90-1817-4385-81f8-39d1f9b93c7b"
+    },
+    {
+      "text": "CONTRACT for Service 53\nEffective Date: 2024-09-14\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138510",
+        "document_id": "7e691450-40ec-495f-bcb8-2720c70c8935",
+        "confidence_score": 0.8486407062893013,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "87363fd9-911f-418c-85c2-9cd971ec0c54"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.5.0\nRequirements:\n- Req1 24\n- Req2 19\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140353",
+        "document_id": "5267ed17-c90e-4f1b-ad03-5b1520b0d751",
+        "confidence_score": 0.8698963284284129,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "51e97d59-d06a-44b4-843a-2a34bfdd7aed"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 41\n2. Term2 16\n3. Term3 96\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138031",
+        "document_id": "70789664-f0fe-443f-b20f-2f3032b738dd",
+        "confidence_score": 0.860759189615125,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "4b387e31-078c-4107-a803-e002f109d2a9"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 81, Company O hereby provides notice that Action 98.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138583",
+        "document_id": "a44562f8-d89f-4908-af18-ae5df2d9350b",
+        "confidence_score": 0.715483532555904,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "506b8d3a-6e0d-4553-9f50-414316a20f90"
+    },
+    {
+      "text": "CONTRACT for Service 23\nEffective Date: 2025-04-03\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138077",
+        "document_id": "b5203d7d-4498-47df-b4f1-4f70a628493f",
+        "confidence_score": 0.7042445101768191,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "24c42017-15df-4851-88ce-1fc28875edce"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2651177\nBalance: $6155.21",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135882",
+        "document_id": "1d49e9d6-f782-4b88-8ab6-0d6e1c66bb0c",
+        "confidence_score": 0.9184640765323548,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "5c605914-7155-4f0d-bf44-f7a8b1c1ad8f"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 25, Company T hereby provides notice that Action 66.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138698",
+        "document_id": "2714a41d-f64d-4649-adac-2f26d583236b",
+        "confidence_score": 0.9238877636477193,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "7a968653-4ac5-47cf-913e-0899486155e8"
+    },
+    {
+      "text": "Transaction History\nDate: 2024-09-18\nDescription: Description 82\nAmount: $85305.99\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136281",
+        "document_id": "b3ffcc23-02b6-4979-8402-3ea0abb16390",
+        "confidence_score": 0.8516227174293961,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "8fb25eb8-d968-46ba-aa91-7360117d60e9"
+    },
+    {
+      "text": "Function: set_User\nDescription: Description 48\nReturns: Return Type 86\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139896",
+        "document_id": "2a4887aa-a8ec-4a2e-9e88-99874a6988c6",
+        "confidence_score": 0.9848142305235716,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "be65ded3-d047-4bad-85f7-14054c667c31"
+    },
+    {
+      "text": "Invoice #1192619\nBill To: Company V\nTotal Due: $72100.11\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135433",
+        "document_id": "c61f6d16-f562-47bd-ae17-30225d3faf96",
+        "confidence_score": 0.9045131107079725,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "da75366b-606b-4b0c-b231-90e07d753c4e"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 56, Company X hereby provides notice that Action 76.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137857",
+        "document_id": "2c326866-9676-48fa-8b66-5516426a8339",
+        "confidence_score": 0.7805186614147676,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "51fad4af-1632-4d3f-a8ac-c106088967a9"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 61\n2. Term2 67\n3. Term3 84\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138449",
+        "document_id": "c81409c9-c62a-4610-87bc-b3f5b8f6ea57",
+        "confidence_score": 0.8326688213260609,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "75fcf9a5-6c79-48ca-8669-79ba4f31faaf"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 66, Company A hereby provides notice that Action 85.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138554",
+        "document_id": "63d11150-75dc-4b47-a486-05d614457693",
+        "confidence_score": 0.9608102452961957,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "e2cb8913-6bb1-4bec-820a-a45318d0d2d9"
+    },
+    {
+      "text": "Financial Report - Q2 2025\nRevenue: $197998.89\nExpenses: $225523.89\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136039",
+        "document_id": "8cd2a020-2392-4825-b7f1-301b4605b520",
+        "confidence_score": 0.7175449876021898,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "c3db1cb7-ce75-4650-b265-b8a3924de022"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 9\n2. Term2 36\n3. Term3 99\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138713",
+        "document_id": "5fdb4193-25c1-4057-98b5-21963a4ab236",
+        "confidence_score": 0.937001854600934,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "d766829b-bafc-435a-ab37-ca0bde3c51b0"
+    },
+    {
+      "text": "Technical Specification\nVersion: 3.2.56\nRequirements:\n- Req1 9\n- Req2 61\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140722",
+        "document_id": "461432c9-eb83-4df2-a3c5-439b74d7df05",
+        "confidence_score": 0.8326624191508855,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "74053810-2598-4b5c-84a8-3e4f5c8d2732"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v3/reports\nMethod: POST\nParameters: Params 6\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140814",
+        "document_id": "62d10139-d80a-4dd8-b903-eea8e5858ea8",
+        "confidence_score": 0.7743231170794852,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "af80363b-8671-4fab-b6dd-6eb62d4cbb4f"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company T and Company B.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138387",
+        "document_id": "25f06af0-4a4e-4b6d-94ab-ecd0c7f59f24",
+        "confidence_score": 0.9668268667877361,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "dda102c7-9619-4e47-bbc3-a186e5e3ef86"
+    },
+    {
+      "text": "LEGAL NOTICE\nPursuant to Statute 69, Company X hereby provides notice that Action 95.\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137493",
+        "document_id": "2a60101e-daab-40e1-a559-a275bb55ad28",
+        "confidence_score": 0.8638396929201517,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "2e136639-0097-4cbc-8ac1-0dd78be9e771"
+    },
+    {
+      "text": "Invoice #1463060\nBill To: Company D\nTotal Due: $87716.14\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136544",
+        "document_id": "c24ab871-6139-4761-a842-f322c5ce0ab0",
+        "confidence_score": 0.778364558917063,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a5dbc644-6c99-46cf-b6d0-1beb072c7871"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/users\nMethod: DELETE\nParameters: Params 10\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140553",
+        "document_id": "e9510d0b-b378-4d03-8813-98a741b2eb1f",
+        "confidence_score": 0.95863300408362,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "813054bf-9fa9-4e45-a82d-ba0da31b3876"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 87\n2. Term2 74\n3. Term3 76\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.138420",
+        "document_id": "6b5803eb-8c4c-4542-b4c9-c36213d95ddd",
+        "confidence_score": 0.9852358833419057,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "8b5c7036-761f-41eb-ab6f-806faabe6678"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.1.78\nRequirements:\n- Req1 77\n- Req2 65\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140769",
+        "document_id": "8f4cf906-d70d-4d43-9b9f-d29512c610f4",
+        "confidence_score": 0.8153447429747395,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "5878bec9-1c8d-4177-a5c4-ce086c563663"
+    },
+    {
+      "text": "Invoice #8321474\nBill To: Company T\nTotal Due: $98425.16\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136574",
+        "document_id": "7d92597b-e9c4-4c5c-8f3d-93628efb6df6",
+        "confidence_score": 0.7346937352087991,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "fbed8ef6-6a2e-4009-9bfb-25f783dbdc44"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 4335942\nBalance: $71630.36",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.134889",
+        "document_id": "bf14bab5-059d-427a-a997-4d5d35dfc07e",
+        "confidence_score": 0.9103974920770708,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "565ff57d-f1b0-4840-9de1-f8dc11f24547"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 89\n2. Term2 61\n3. Term3 83\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137957",
+        "document_id": "e1acb220-e2d8-4dbf-8a3b-8524ba052089",
+        "confidence_score": 0.9135527219418168,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "9b22c094-cc4c-458e-9d55-3f75ac890b94"
+    },
+    {
+      "text": "Error Code: ERR_114\nDescription: Error Desc 34\nResolution: Resolution 69\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139803",
+        "document_id": "3bfee5fe-b32f-475c-b280-bb07c3c5e0ab",
+        "confidence_score": 0.7370766210290477,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "ca70af4f-f933-4661-baba-fe0156aac82d"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company M and Company K.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137529",
+        "document_id": "6d40ab17-2802-4cf3-8e90-bcb18d9aa651",
+        "confidence_score": 0.9006620861868752,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "cd1ceaee-849a-4f96-b756-8ca214d26e0c"
+    },
+    {
+      "text": "Function: get_User\nDescription: Description 82\nReturns: Return Type 33\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139502",
+        "document_id": "c09f21b2-4e72-4117-91f0-99452f2021c3",
+        "confidence_score": 0.8378711497530192,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "e6652524-f72f-457e-9099-4fa21acecbf1"
+    },
+    {
+      "text": "Function: get_User\nDescription: Description 14\nReturns: Return Type 44\nApi: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140799",
+        "document_id": "adc82cb6-c05b-4ec4-876a-59c34be0af7a",
+        "confidence_score": 0.9947156743280192,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "cf0dc2e6-ad52-4f2a-a2d0-68dcc8e9161d"
+    },
+    {
+      "text": "CONTRACT for Service 99\nEffective Date: 2024-12-12\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137040",
+        "document_id": "f82f7180-276d-4e88-b076-0575db06c69f",
+        "confidence_score": 0.84537910512108,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "02af6b69-1310-46a9-8776-2a43f42d26d4"
+    },
+    {
+      "text": "Financial Report - Q4 2025\nRevenue: $277248.35\nExpenses: $926137.27\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135226",
+        "document_id": "6ac8d485-cd8f-4e82-b743-8db72fd3c465",
+        "confidence_score": 0.9064485875299939,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "3c16db3e-2d97-4869-8c6d-cc00af705e9b"
+    },
+    {
+      "text": "API Documentation\nEndpoint: /api/v2/users\nMethod: PUT\nParameters: Params 17\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140249",
+        "document_id": "605327f5-7948-478e-8141-8a79f3eab8fb",
+        "confidence_score": 0.866911220684605,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "2830f38c-7f16-46f5-9ed9-db69df2e720a"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company P and Company A.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137627",
+        "document_id": "e8c9ca21-9b43-4a00-9f99-a6be00344683",
+        "confidence_score": 0.9247072783248552,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "857350f6-e69f-4572-b70c-0d59da7762ee"
+    },
+    {
+      "text": "TERMS AND CONDITIONS\n1. Term1 63\n2. Term2 29\n3. Term3 35\nAgreement: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137515",
+        "document_id": "ba1ea715-1d66-4976-a251-e3f097f749f5",
+        "confidence_score": 0.830750792813991,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "e3774442-18c1-401c-b2cb-8adb40549adb"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 3762152\nBalance: $37959.41",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136001",
+        "document_id": "8fe00ae4-0dc5-41de-988a-00b8379bccb1",
+        "confidence_score": 0.9955926531339178,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a19bd034-2740-45ca-abc1-cf875d59b3a8"
+    },
+    {
+      "text": "Transaction History\nDate: 2025-08-19\nDescription: Description 41\nAmount: $40176.36\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135272",
+        "document_id": "e7d4abac-ed1b-4189-8140-e4df28a6e824",
+        "confidence_score": 0.7198565815634641,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "c2b9b75e-fcad-4ec3-b41a-4f72d099f3b6"
+    },
+    {
+      "text": "Invoice #4567281\nBill To: Company U\nTotal Due: $49973.20\nBalance: Additional information\nAccount: Additional information",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135311",
+        "document_id": "df6d1c9f-da57-4466-9888-b826a877fa61",
+        "confidence_score": 0.9654049461660108,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "a2051517-fc3b-4203-a646-064f659e6ad6"
+    },
+    {
+      "text": "Technical Specification\nVersion: 5.4.81\nRequirements:\n- Req1 55\n- Req2 89\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.139533",
+        "document_id": "af298641-85f6-43cf-8758-673743bc5e59",
+        "confidence_score": 0.7750294673223104,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "12e81d4a-6e5a-409f-80e3-3b99c4b74e79"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 1848731\nBalance: $65249.27",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135942",
+        "document_id": "c13eaae1-d553-46f5-9803-bb15ffff0695",
+        "confidence_score": 0.8621763814300915,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "1de3291d-c4ad-4595-beaf-7430369b3fa6"
+    },
+    {
+      "text": "Technical Specification\nVersion: 1.6.2\nRequirements:\n- Req1 42\n- Req2 22\nApi: Additional information\nFunction: Additional information",
+      "label": "technical",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.140595",
+        "document_id": "77bd2fb2-ced1-433c-b329-36a59028452f",
+        "confidence_score": 0.9403966462931357,
+        "page_type": "technical",
+        "language": "en"
+      },
+      "document_id": "5a4dc498-3c5e-4132-8203-a338b11e1883"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 4946066\nBalance: $40437.18",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136086",
+        "document_id": "92adf06d-e501-42d1-8bbf-87ea5b9e3401",
+        "confidence_score": 0.9824788381687268,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "117f8ff8-954c-4cb1-a202-e9f62993c31f"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 6933742\nBalance: $78033.61",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136410",
+        "document_id": "b9b53e5d-04e4-4840-8ec6-a88f84212cbe",
+        "confidence_score": 0.9652404104353027,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "4b8d20ea-5015-45a4-ac2c-70a8f99f635f"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company M and Company S.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137558",
+        "document_id": "98a8db4d-b34a-482c-89cf-19df2f089901",
+        "confidence_score": 0.8693175949074322,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "372c443f-820a-42a4-95ba-a61e2f4955f2"
+    },
+    {
+      "text": "AGREEMENT\nThis Agreement is entered into between Company Y and Company F.\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137707",
+        "document_id": "12b8cfad-cf40-4eb1-9fa7-b35501f6f433",
+        "confidence_score": 0.9894162319102263,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "d6ce623b-8ed0-43e2-a90f-0f994fb024a3"
+    },
+    {
+      "text": "CONTRACT for Service 72\nEffective Date: 2025-08-30\nParties hereby agree to the following:\nAgreement: Additional information\nTerms: Additional information",
+      "label": "legal",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.137929",
+        "document_id": "a087728c-19c3-4256-9194-714ed3ee400c",
+        "confidence_score": 0.8549881755144803,
+        "page_type": "legal",
+        "language": "en"
+      },
+      "document_id": "81c291ba-7355-4b1d-9e6d-f9f5d164061c"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 3871230\nBalance: $53460.57",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.135207",
+        "document_id": "e81c5dd7-c465-4daf-b336-bee45152ab64",
+        "confidence_score": 0.7734432775454279,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "2466b94b-9398-472b-b6bb-e1009aa5b88a"
+    },
+    {
+      "text": "Account Statement\nAccount Number: 2229110\nBalance: $53809.68",
+      "label": "financial",
+      "metadata": {
+        "creation_date": "2025-09-04T23:13:16.136166",
+        "document_id": "5901d9c2-e3cf-4ef0-b6a2-78ec9e654d5e",
+        "confidence_score": 0.8517654082146295,
+        "page_type": "financial",
+        "language": "en"
+      },
+      "document_id": "bac33697-df46-4a45-a855-678972e77c6d"
+    }
+  ],
+  "metadata": {
+    "total_samples": 300,
+    "training_samples": 240,
+    "test_samples": 60,
+    "page_types": [
+      "financial",
+      "legal",
+      "technical"
+    ],
+    "generation_date": "2025-09-04T23:13:16.140966",
+    "config": {
+      "num_samples_per_class": 100,
+      "page_types": [
+        "financial",
+        "legal",
+        "technical"
+      ],
+      "train_test_split": 0.8,
+      "random_seed": 42,
+      "augmentation_factor": 3,
+      "noise_level": 0.05
+    }
+  }
+}

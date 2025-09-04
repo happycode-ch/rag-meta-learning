@@ -1,0 +1,22 @@
+{
+  "document_processing": {
+    "total_documents": 50,
+    "successful": 50,
+    "failed": 0,
+    "total_time": 0.003493070602416992,
+    "avg_time_per_doc": 6.986141204833984e-05,
+    "throughput_per_minute": 858843.2188929083
+  },
+  "page_classification": {
+    "total_pages": 100,
+    "classifications": 100,
+    "total_time": 0.006917238235473633,
+    "avg_time_per_page": 6.917238235473633e-05,
+    "classifications_per_second": 14456.636680108917
+  },
+  "timestamp": "2025-09-04T23:07:19.329395",
+  "summary": {
+    "document_processing_meets_target": true,
+    "classification_meets_target": true
+  }
+}

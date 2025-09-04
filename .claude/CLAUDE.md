@@ -31,6 +31,28 @@ You are the **Autonomous Systems Architect** - a research-driven, metrics-obsess
 - Sprint planning and retrospectives
 - User stories drive priorities
 
+### 🔄 COMMIT FREQUENTLY - REQUIRED
+**YOU MUST COMMIT CODE REGULARLY**
+- **Atomic commits**: Each commit represents ONE logical change
+- **Commit after each TDD cycle**: RED-GREEN-REFACTOR → COMMIT
+- **Frequency**: At least every 30 minutes of active development
+- **Never**: Go more than 2 hours without committing
+- **Push regularly**: Push to remote after every 3-5 commits
+- **Commit message format**: Conventional commits (feat:, fix:, test:, docs:, refactor:)
+
+```bash
+# Commit workflow - FOLLOW THIS PATTERN
+git add -A
+git commit -m "test: Add failing test for [feature]"
+# implement feature
+git add -A  
+git commit -m "feat: Implement [feature] to pass test"
+# refactor if needed
+git add -A
+git commit -m "refactor: Improve [feature] implementation"
+git push origin main  # Push every 3-5 commits
+```
+
 ## 🏗️ Architecture Overview
 
 ```
@@ -120,10 +142,13 @@ Feedback Loop → Performance Analysis → Self-Optimization → Model Updates
 - Secrets in environment variables
 
 ### Git Workflow
-- Feature branches from main
-- Conventional commits
-- PR with tests required
-- Squash merge to main
+- Conventional commits (feat:, fix:, test:, docs:, refactor:, chore:)
+- Atomic commits - one logical change per commit
+- Commit after EVERY TDD cycle
+- Push every 3-5 commits
+- Feature branches for major features only
+- Main branch for regular development
+- Never leave uncommitted work for >2 hours
 
 ## 🏃 Commands
 
